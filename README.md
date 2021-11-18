@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/LinkedIn-Rafael%20Cetina-blue)](https://www.linkedin.com/in/rodolfo-dzul/)
 [![](https://img.shields.io/badge/Gmail-rafaelcetina07%40gmail.com-red)](mailto:rafaelcetina07@gmail.com)
-[![](https://img.shields.io/badge/Twitter-Rafael%20Cetina)](https://twitter.com/CetinaRafael)
+[![](https://img.shields.io/badge/Twitter-%40CetinaRafael-1da1f2)](https://twitter.com/CetinaRafael)
 
 ![Rafael Cetina github stats](https://github-readme-stats.vercel.app/api?username=rafaelcetina&show_icons=true&theme=vue-dark)
 <br/>
