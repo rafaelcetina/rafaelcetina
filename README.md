@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right' src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47f432655751fbc4ec4bb7fa845bd52067fa3f3332&rid=giphy.gif" width="230">
+<img align='right' src="https://giphy.com/gifs/13HgwGsXF0aiGY" width="230">
 
 ## I'm RODOLFO RAFAEL DZUL CETINA 👋
 ## Full-Stack Developer 👨‍💻
